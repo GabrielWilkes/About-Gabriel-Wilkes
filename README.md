@@ -38,13 +38,13 @@ Project 3: Web Scraping with Python
 Built a web scraper to collect and analyze product prices from e-commerce sites.
 Tech stack: Python, BeautifulSoup, pandas
 
-## 📫 <b>Connect with Me</b>
+## 📫 <b>Connect with Me:</b>
 
 LinkedIn – Let’s connect and discuss all things data! https://www.linkedin.com/in/gabriel-wilkes/ 
 
 Email – Feel free to reach out for collaboration or inquiries. gabrielwilkes@icloud.com
 
-## 😄 <b>Pronouns</b>
+## 😄 <b>Pronouns:</b>
 
 He / Him
 
