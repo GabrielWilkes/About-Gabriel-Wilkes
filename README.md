@@ -6,7 +6,7 @@
 
 💡 Aspiring Data Analyst with a passion for transforming data into actionable insights.
 
-🌱 Currently enhancing my skills in Python, SQL, Excel, and Tableau through Codecademy courses.
+🌱 Currently enhancing my skills in Python, SQL, Excel, and Tableau through Codecademy courses. Also have a BSc Business Management degree from the University of Brighton. 
 
 💼 Working as a Junior Business Analyst at Evoke System Solutions and a Waiting Supervisor at Norwich City Football Club.
 
