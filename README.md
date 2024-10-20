@@ -28,7 +28,7 @@ Here are a few projects that highlight my skills in data analysis and visualizat
 
 ### Project 1: [US Medical Insurance Cost Analysis](https://github.com/GabrielWilkes/Medical-Insurance-Analysis)
 
-An analysis of a dataset of medical insurance charges in the United States. The goal is to explore the relationships between various demographic factors and the insurance costs. 
+* An analysis of a dataset of medical insurance charges in the United States. The goal is to explore the relationships between various demographic factors and the insurance costs. 
  
 ## 📫 <b>Connect with Me:</b>
 
